@@ -1,17 +1,17 @@
-OPTIMUS-LEARNING
+# OPTIMUS-LEARNING:
 A repository for our day-to-day projects at OptimusLogic
 
-Problem Definition
+# Problem Definition
 Read words from a file and count the occurence of words in the file
 
-Solution:
+# Solution:
 -programming language used:python3
 -import required  libraries
 -open a file in read mode and display its content
 -display the total counts in words
 -function to count the occurance of words
 
-Algorithm:
+# Algorithm:
 Step 1:Open the text file in read mode.
 Step 2:Read & store data in variable.
 Step 3:Print contents of text file stored in variable.
@@ -29,7 +29,7 @@ Step 9:for loop to iterate through the words.
             d[word]=1
 Step 10:Print the words along with their occurance.
 
-User manual:
+# User manual:
 1.Enter the text filename along  new.txt format when prompted for the filename.
 2.The output will be displayed as follows:
 -The contents of the given filename.
